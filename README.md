@@ -10,3 +10,5 @@ NCCMT Factsheet:  recommended by textbook;  downloaded and saved for possible fu
 Reading_list_abstract_sift:  document keeping note of decisions made about papers returned in keyword search with title and abstract sift carried out
 
 Search_Results:  count data of papers returned from each database from keyword search.  Completed on Friday 14 October 2016
+
+Reading_List_further_screening: Excel document derived from Reading_list_abstract_sift.  Null responses and duplicates removed.  Entrants used to locate articles / theses and recording whether downloaded or not
