@@ -17,4 +17,14 @@ Reading_List_Library_request: filtered list of dissertations that are only avail
 
 Exported_List_of_included_Covidence_Studies.ris: Metadata of studies included after Covidence Full text review stage.  Exported on Wed 9 Nov and used to group studies in Mendeley in "included Covidence folder"; more texts may become apparent with citation search
 
+Effects Review: diagram to show flow of information in model article
+
+Exported_List_of_Excluded_Covidence_Studies.txt:  articles excluded after full text review -with reasons.
+
+Exported_List_of_included_Covidence_Studies-txt:  plain text format of earlier file so saved as a separate file rather than a versioned file.
+
+Literature_Search.xmind:  Diagram of literature search process detailing different strands to the search with number of articles at each stage.  For use in supplementary materail in any submisison
+
+Prisma-P-Checklist.docx:  Word document template to allow for creation of a review protocol - needed by BMJ these days to ensure transparent and reproducible review process as free of bias as possible.
+
 
