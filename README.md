@@ -27,4 +27,8 @@ Literature_Search.xmind:  Diagram of literature search process detailing differe
 
 Prisma-P-Checklist.docx:  Word document template to allow for creation of a review protocol - needed by BMJ these days to ensure transparent and reproducible review process as free of bias as possible.
 
+Database21.accdb:  Access database of tables / forms with fields to allow for extraction of both descriptive and statistical data in preparation for meta-analysis. Given the different study designs / sample populations / analytical methods and reporting standards within the literature, RevMan5 is not an appropriate software to export Covidence data from, hence the move away from Cochrane templates.
+
+Studies with different effects.xmind: A mind map to facilitate the sub-grouping of studies, by paradigm and then manipulated effects.  Sample populations are listed after each study if they are not the default young vs old adults sample population
+
 
